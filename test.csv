@@ -1,6 +1,7 @@
 英語,日本語,備考
 upstream,上流,
-commit,コミット,
+commit,commit,カタカナにはしない
 branch,ブランチ,
+stash,stash,カタカナにはしない
 history,歴史,commit historyと区別すること
 commit history,コミット履歴,historyと区別すること
